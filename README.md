@@ -1,2 +1,5 @@
 # Nominas
-Pequeña demo de nóminas con C#
+Pequeña demo de nóminas con C#.
+
+Esta es una pequeña práctica de la aaignatura DIA.
+
