@@ -12,7 +12,7 @@
             Empleado o2 = new Obrero("Jaimito");
             var empresa = new Empresa();
 
-            empresa.Empleados = new Empleado[] { d, o2 };
+            empresa.Empleados = new Empleado[] { d, o, o2 };
 
             foreach(Empleado empleado in empresa.Empleados)
             {
