@@ -1,5 +1,5 @@
 # Nominas
 Pequeña demo de nóminas con C#.
 
-Esta es una pequeña práctica de la aaignatura DIA.
+Esta es una pequeña práctica de la asignatura DIA.
 
